@@ -1,7 +1,7 @@
 #!/bin/bash
 
-startdate=2018-07-10
-enddate=2018-07-20
+startdate=2018-02-10
+enddate=2018-03-20
 
 sDateTs=`date -j -f "%Y-%m-%d" $startdate "+%s"`
 eDateTs=`date -j -f "%Y-%m-%d" $enddate "+%s"`
